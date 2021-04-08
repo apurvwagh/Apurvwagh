@@ -28,3 +28,12 @@ You can click the Preview link to take a look at your changes.
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
+## Quick Overview 📝
+    
+<a href="https://github.com/apurvwagh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=apurvwagh&show_icons=true&include_all_commits=true&theme=radical" alt="Apurv's github stats" />
+</a>
+<a href="https://github.com/apurvwagh/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=apurvwagh&layout=compact&theme=radical" />
+</a>
