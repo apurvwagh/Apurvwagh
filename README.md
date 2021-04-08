@@ -41,4 +41,4 @@ You can click the Preview link to take a look at your changes.
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919028390982) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
-<a href="https://www.linkedin.com/in/apurv-waghmare-b9a920124//" target="_blank">
+
